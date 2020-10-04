@@ -10,6 +10,8 @@ I will try to update this project in the next 2 weeks.
 ## Installing
 ```bash
 git clone https://github.com/pengjin2/Derbit-Volatility-Visulization.git
+conda install numpy matplotlib pandas
+pip install websocket-client
 ```
 
 ## Traceback
